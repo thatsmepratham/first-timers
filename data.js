@@ -16,7 +16,7 @@ const data = [
 
   // Copy the above template and paste it below this line
   {
-    id: 0,
+    id: 1,
     name: "Pratham Shah",
     branch: "electronics and communication",
     introduction: "i am fresher at pdeu in EC department highly intrested in Coding ",
